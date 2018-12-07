@@ -1,15 +1,24 @@
+###author
+Jon-Patrick Cook
+
+###Course
+Udacity Programming for Data Science Nanodegree
+
 ### Date created
-Include the date you created this project and README file.
+December 6, 2018
 
 ### Project Title
-Replace the Project Title
+Bikeshare Analysis
 
 ### Description
-Describe what your project is about and what it does
+This project uses publicly available data for bikeshare programs operating in Chicago, New York City, and Washington to create a dynamic and interactive program, executable in a terminal, for users to see descriptive statistics on the bikeshare program in said cities.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
+bikeshare.py
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+All work is my own
