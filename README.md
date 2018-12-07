@@ -1,4 +1,4 @@
-###author
+###Author
 Jon-Patrick Cook
 
 ###Course
